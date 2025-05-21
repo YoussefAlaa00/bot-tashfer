@@ -17,7 +17,7 @@ client.once('ready', () => {
   console.log(`🌐 ${client.user.tag} is now online!`);
   console.log(line);
   console.log(`🤖 Bot Username  : ${client.user.username}`);
-  console.log(`🆔 Bot ID        : ${client.user.id}`);
+  console.log(`🆔 Bot ID        : ${client.user.MTM3NDY1NDUyMDczMDA1ODc1Mg.GoBW26.GwyaC9mjgKdgk559tmNDgvT4UA4ZOIPl849jvQ}`);
   console.log(`📅 Launched On   : ${new Date().toLocaleString()}`);
   console.log(line);
   console.log(`📊 Connected to  : ${client.guilds.cache.size} servers`);
@@ -217,4 +217,4 @@ client.on("interactionCreate", async i => {
 
 })
 
-client.login("")
+client.login("MTM3NDY1NDUyMDczMDA1ODc1Mg.GoBW26.GwyaC9mjgKdgk559tmNDgvT4UA4ZOIPl849jvQ")
